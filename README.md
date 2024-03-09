@@ -11,4 +11,4 @@ Things I like:
 * Taylor Swift!
 
 I am studying:
-*BSc in Psychology and Statistics at the University of Auckland.*
+*BSc in Psychology and Statistics at the University of Auckland*
