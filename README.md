@@ -1,5 +1,6 @@
 # **Stats 220 Semester 1 2024**
 ## *For projects attached to this course*
+### *BSc in Psychology and Statistics at the University of Auckland*
 
 1. Feel free to follow
 2. Or watch this repository
